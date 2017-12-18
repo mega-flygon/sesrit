@@ -1,4 +1,0 @@
-local one = 1
-local two = one
-two = 3
-print(one)
